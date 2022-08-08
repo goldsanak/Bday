@@ -1,0 +1,20 @@
+:root {
+    --primary-color: #FED6D0;
+}
+
+
+.bg-color {
+    background-color: var(--primary-color);
+}
+
+.pattern-img-bw {
+    background-image: url("./assets/images/bday-pattern-bg.jpg");
+}
+
+.pattern-img-color {
+    background-image: url("./assets/images/bday-pattern-bg-one.jpg");
+}
+
+.curved-text {
+    font-size: 30px;
+}
