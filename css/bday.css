@@ -2,7 +2,6 @@
     --primary-color: #FED6D0;
 }
 
-
 .bg-color {
     background-color: var(--primary-color);
 }
@@ -15,6 +14,6 @@
     background-image: url("./assets/images/bday-pattern-bg-one.jpg");
 }
 
-.curved-text {
-    font-size: 30px;
+.text-bg-primary {
+    background-color: var(--primary-color);
 }

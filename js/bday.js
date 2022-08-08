@@ -1,5 +1,5 @@
 window.onload = function () {
   setTimeout(() => {
-    startConfetti();
+    document.getElementById("#body-content").startConfetti();
   }, 1000);
 };
